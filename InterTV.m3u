@@ -22,4 +22,12 @@ https://secure-streams.akamaized.net/rt-doc/index.m3u8
 https://secure-streams.akamaized.net/rt-usa/index.m3u8
 #EXTINF:-1, RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:-1,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1,TRT SPOR HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 
