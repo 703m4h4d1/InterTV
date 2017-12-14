@@ -7,3 +7,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 #EXTINF:-1, TVi
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+#EXTINF:-1, TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+#EXTINF:-1, TV2
+http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
+#EXTINF:-1, Alhijrah
+https://tvah.viredge.com/tvahlive/smil:tvahlive.smil/playlist.m3u8
