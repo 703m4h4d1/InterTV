@@ -15,4 +15,6 @@ http://122.155.184.11/T1457077260/ngrp:livestream_all/playlist.m3u8
 https://streamlocker.voicetv.co.th/live-edge/voicetv_360p/playlist.m3u8
 #EXTINF:-1,Nation TV (เนชั่นทีวี)
 http://live.nationtv.tv/hls/ntv_th_sd.m3u8
+#EXTINF:-1,Thairath TV (ไทยรัฐทีวี)
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
