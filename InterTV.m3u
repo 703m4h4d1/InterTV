@@ -4,5 +4,7 @@
 https://raw.githubusercontent.com/703m4h4d1/InterTV/master/BruneiTV.m3u
 #EXTINF:-1,MalaysiaTV
 https://raw.githubusercontent.com/703m4h4d1/InterTV/master/MalaysiaTV.m3u
+EXTINF:-1,singaporeTV
+https://raw.githubusercontent.com/703m4h4d1/InterTV/master/SingaporeTV.m3u
 
 
