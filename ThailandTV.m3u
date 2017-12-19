@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Channel5
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+#EXTINF:-1, Channel 7 (ช่อง 7 สี)
+http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/chunklist_b664000_sleng.m3u8
+
