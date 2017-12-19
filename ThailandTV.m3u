@@ -17,4 +17,6 @@ https://streamlocker.voicetv.co.th/live-edge/voicetv_360p/playlist.m3u8
 http://live.nationtv.tv/hls/ntv_th_sd.m3u8
 #EXTINF:-1,Thairath TV (ไทยรัฐทีวี)
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1,TV 24 (ทีวี 24) 
+https://vdo.plathong.net/wowza/flash2837/flash2837/playlist.m3u8
 
