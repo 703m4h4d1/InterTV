@@ -25,4 +25,8 @@ rtmp://stream.innnews.co.th/live/innhigh2
 rtmp://stream.13livetv.com:1935/live/_definst_/13livetv
 #EXTINF:-1,newtv (New TV / นิวทีวี) 
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:-1,Suwannabhumi TV (ทีวีช่องสุวรรณภูมิ)
+http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
+#EXTINF:-1,TCCTV (Thai Central Chinese Television / Thai CCTV / ทีซีซีทีวี) 
+http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 
