@@ -3,4 +3,6 @@
 http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
 #EXTINF:-1, Channel 7 (ช่อง 7 สี)
 http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/chunklist_b664000_sleng.m3u8
+#EXTINF:-1, Thai PBS 
+http://thaipbs-live.cdn.byteark.com/live/playlist_240p/index.m3u8
 
