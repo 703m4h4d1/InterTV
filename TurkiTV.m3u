@@ -7,28 +7,12 @@ https://59c7ea6bec1c6.streamlock.net/live/foxtv/playlist.m3u8
 https://59c7ea6bec1c6.streamlock.net/live/showtv/playlist.m3u8
 #EXTINF:-1,ATV HD
 https://59c7ea6bec1c6.streamlock.net/live/atv/playlist.m3u8
-#EXTINF:-1,TRT HD
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,TRT Sport
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1,Dost TV
 rtmp://yayin.dosttv.com/dosttv/dosttv2.flv
 #EXTINF:-1,A Haber
 http://trkvz-live.ercdn.net/ahaberhd_bo/ahaberhd.m3u8
-#EXTINF:-1,TRT MÜZİK 
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1,TRT BELGEZEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_500_av-p.m3u8
-#EXTINF:-1,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8
 #EXTINF:-1,A9
 rtmp://live.harunyahya.tv:1935/harunyahyalive/hytest1
-#EXTINF:-1,TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1,TRT1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-p.m3u8
-#EXTINF:-1,TRT ÇOCUK 
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_500_av-b.m3u8
 #EXTINF:-1,Bereket TV
 http://berekettv.mediatriple.net/berekettv/berekettv.smil/Playlist.m3u8
 #EXTINF:-1,Flash TV
@@ -39,12 +23,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_500_av-p.m3u8
 http://yayin8.canliyayin.org:1935/kudustv/kudustv/playlist.m3u8
 #EXTINF:-1,SportsTV
 rtmp://stream.sportstv.com.tr/sportstv
-#EXTINF:-1,TRT Okul
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8
 #EXTINF:-1,Vizion TV
 http://yayin3.canlitv.com:1935/canlitv/vizyonturktv/playlist.m3u8?hash=12c4ca2947872c2f9e2b945e70f2244d
-#EXTINF:-1,TRT Diyanet
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:-1,TV8
 http://yayin8.canlitv.com:1935/live/tv8/playlist.m3u8?hash=12c4ca2947872c2f9e2b945e70f2244d
 #EXTINF:-1,Kanal 7 HD
