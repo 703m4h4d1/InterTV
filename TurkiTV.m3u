@@ -24,17 +24,17 @@ http://yayin8.canliyayin.org:1935/kudustv/kudustv/playlist.m3u8
 #EXTINF:-1,SportsTV
 rtmp://stream.sportstv.com.tr/sportstv
 #EXTINF:-1,Vizion TV
-http://yayin3.canlitv.com:1935/canlitv/vizyonturktv/playlist.m3u8?hash=12c4ca2947872c2f9e2b945e70f2244d
+http://yayin3.canlitv.com:1935/canlitv/vizyonturktv/playlist.m3u8
 #EXTINF:-1,TV8
-http://yayin8.canlitv.com:1935/live/tv8/playlist.m3u8?hash=12c4ca2947872c2f9e2b945e70f2244d
+http://yayin8.canlitv.com:1935/live/tv8/playlist.m3u8
 #EXTINF:-1,Kanal 7 HD
-http://yayin8.canlitv.com:1935/live/kanal7/playlist.m3u8?hash=12c4ca2947872c2f9e2b945e70f2244d
+http://yayin8.canlitv.com:1935/live/kanal7/playlist.m3u8
 #EXTINF:-1,Meltem TV
 http://37.75.10.20:80/meltemtvcanli/smil:meltemtvcanli/playlist.m3u8
 #EXTINF:-1,Halk TV
-http://yayin3.canlitv.com:1935/canlitv/halktv/playlist.m3u8?hash=12c4ca2947872c2f9e2b945e70f2244d
+http://yayin3.canlitv.com:1935/canlitv/halktv/playlist.m3u8
 #EXTINF:-1,TLC
-http://yayin8.canlitv.com:1935/live/tlc/playlist.m3u8?hash=12c4ca2947872c2f9e2b945e70f2244d
+http://yayin8.canlitv.com:1935/live/tlc/playlist.m3u8
 #EXTINF:-1,Show TV
 http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/playlist.m3u8?token=22f41dc3f4f61a270b1c315dd043b417f3cce2ea3f1f20cd
 #EXTINF:-1,24 TV
@@ -48,7 +48,7 @@ http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/playlist.m3u8
 #EXTINF:-1,Bengü Türk
 http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8
 #EXTINF:-1,NTV Spor
-http://yayin3.canlitv.com:1935/canlitv/ntvspor/playlist.m3u8?hash=12c4ca2947872c2f9e2b945e70f2244d
+http://yayin3.canlitv.com:1935/canlitv/ntvspor/playlist.m3u8?
 #EXTINF:-1,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,TRT WORLD
