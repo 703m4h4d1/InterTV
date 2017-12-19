@@ -21,4 +21,6 @@ https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 https://vdo.plathong.net/wowza/flash2837/flash2837/playlist.m3u8
 #EXTINF:-1, INN
 rtmp://stream.innnews.co.th/live/innhigh2
+#EXTINF:-1,13 Siam Thai (13 สยามไท)
+rtmp://stream.13livetv.com:1935/live/_definst_/13livetv
 
