@@ -29,4 +29,6 @@ http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 http://203.146.129.233:1935/live/mp4:suwan/playlist.m3u8
 #EXTINF:-1,TCCTV (Thai Central Chinese Television / Thai CCTV / ทีซีซีทีวี) 
 http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+#EXTINF:-1,Money Channel 
+https://mylive-hls.cdn.byteark.com/hls/premiumtest/index.m3u8
 
