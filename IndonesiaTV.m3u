@@ -107,6 +107,8 @@ https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 https://cdn-livetv.metube.id/hls/movie.m3u8
 #EXTINF:-1,Music Channel	
 https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
+#EXTINF:-1,NTV
+http://103.65.236.253:1935/live/liventv1/playlist.m3u8
 #EXTINF:-1,Ochannel	
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1,PJTV Bandung
@@ -137,6 +139,8 @@ http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
 rtmp://video2.onlivestreaming.net/saktitv
 #EXTINF:-1,SBO TV
 http://122.248.32.234:1935/ch13/myStream/playlist.m3u8
+#EXTINF:-1,SBCTV Jember
+http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1,SCTV	
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 #EXTINF:-1,SMTV sumedang
