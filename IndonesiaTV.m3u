@@ -153,6 +153,8 @@ http://tvsultra.onlivestreaming.net/tvsultra/playlist.m3u8
 http://103.28.22.198/surautv/live/playlist.m3u8
 #EXTINF:-1,Tahfizh TV	
 rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:-1,TegarTV Lampung
+http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
 #EXTINF:-1,The Indonesia Channel	
 http://202.93.143.66:1935/aoraiptv/aora07/playlist.m3u8
 #EXTINF:-1,Trans TV	
