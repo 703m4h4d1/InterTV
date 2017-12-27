@@ -25,6 +25,8 @@ http://122.248.32.234:1935/ch26/myStream/playlist.m3u8
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 #EXTINF:-1,Bloomberg TV	
 http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
+#EXTINF:-1,BMSTV Banyumas
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1,CeriaTV Pekanbaru
 http://45.127.134.112:1935/ceriatv/live/playlist.m3u8
 #EXTINF:-1,CNN Indonesia	
