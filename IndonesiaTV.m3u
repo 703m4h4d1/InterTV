@@ -49,6 +49,8 @@ http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
 http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
 #EXTINF:-1,Jakarta Globe news Channel TV	
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1,JambiTV
+http://122.248.32.234:1935/ch23/myStream/playlist.m3u8
 #EXTINF:-1,JEK TV	
 http://182.253.193.35:1935/live/myStream1/playlist.m3u8
 #EXTINF:-1,Jogja TV	
