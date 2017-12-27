@@ -25,6 +25,8 @@ http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1,CTV Banten	
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,Dhamma TV
+http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 #EXTINF:-1,DupeTV Dumai	
 http://dupetv.onlivestreaming.net/dupetv/livestream/playlist.m3u8
 #EXTINF:-1,Duta TV Banjarmasin	
