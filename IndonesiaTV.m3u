@@ -53,6 +53,8 @@ https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,MGS TV	
 http://188.166.223.66:8081/live_application/live_stream/playlist.m3u8
+#EXTINF:-1,MimozaTV	
+rtmp://mimozatv.onlivestreaming.net/mimozatv
 #EXTINF:-1,MNC Fashion	
 https://cdn-livetv.metube.id/hls/mncfashion.m3u8
 #EXTINF:-1,MNC Entertainment	
