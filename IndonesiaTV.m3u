@@ -99,6 +99,8 @@ http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist
 http://122.248.32.234:1935/ch12/myStream/playlist.m3u8
 #EXTINF:-1,RCTI	
 https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1,RCTV Cirebon
+http://122.248.32.234:1935/ch9/myStream/chunklist.m3u8
 #EXTINF:-1,RIM TV	
 http://office.rim-tv.com:1935/live/smil:rimTV.smil/manifest.m3u8
 #EXTINF:-1,Rodja TV	
