@@ -85,6 +85,8 @@ https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
 #EXTINF:-1,PKTV Bontang	
 rtmp://wowza60.indostreamserver.com:1935/pktv/live
+#EXTINF:-1,RBTV Bengkulu
+http://122.248.32.234:1935/ch12/myStream/playlist.m3u8
 #EXTINF:-1,RCTI	
 https://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1,RIM TV	
