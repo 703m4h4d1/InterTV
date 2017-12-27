@@ -29,6 +29,8 @@ http://103.23.201.170:1935/live/livestream/playlist.m3u8
 http://dupetv.onlivestreaming.net/dupetv/livestream/playlist.m3u8
 #EXTINF:-1,Duta TV Banjarmasin	
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+#EXTINF:-1,Efarina TV Simalungun
+http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/playlist.m3u8
 #EXTINF:-1,Foodtravel	
 https://cdn-livetv.metube.id/hls/foodtravel.m3u8
 #EXTINF:-1,GTV	
