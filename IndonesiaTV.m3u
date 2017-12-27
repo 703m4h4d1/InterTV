@@ -7,6 +7,8 @@ https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/playlist.m3u8
 #EXTINF:-1,Auto&Gadget	
 https://cdn-livetv.metube.id/hls/autogadget.m3u8
+#EXTINF:-1,Baraya TV Banten
+http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
 #EXTINF:-1,BatuTV	
 rtmp://202.69.108.114/oflaDemo/batu
 #EXTINF:-1,Beritasatu English	
@@ -109,6 +111,8 @@ http://103.28.149.181:1935/rtv/myStream/playlist.m3u8
 rtmp://video2.onlivestreaming.net/saktitv
 #EXTINF:-1,SCTV	
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+#EXTINF:-1,SMTV sumedang
+http://122.248.32.234:1935/ch11/myStream/chunklist.m3u8
 #EXTINF:-1,SNTV	
 http://svr.sntivi.id:1935/live/sntv/playlist.m3u8
 #EXTINF:-1,Sultra TV	
