@@ -91,6 +91,8 @@ https://cdn-livetv.metube.id/hls/movie.m3u8
 https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
 #EXTINF:-1,Ochannel	
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
+#EXTINF:-1,PJTV Bandung
+http://122.248.32.234:1935/ch3/myStream/chunklist.m3u8
 #EXTINF:-1,PKTV Bontang	
 rtmp://wowza60.indostreamserver.com:1935/pktv/live
 #EXTINF:-1,Radar TV Tasikmalaya
