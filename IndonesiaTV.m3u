@@ -65,7 +65,7 @@ rtmp://202.169.224.206/live/jogjatv
 http://122.248.32.234:1935/ch2/myStream/chunklist.m3u8
 #EXTINF:-1,KompasTV	
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
-#EXTINF:-1,Madu TV
+#EXTINF:-1,Madu TV Tulungagung
 http://videostream.indostreamserver.com:1935/madufm/live/chunklist.m3u8
 #EXTINF:-1,MetroTV	
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
