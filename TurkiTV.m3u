@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Kanal D
 https://2122248072.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_1_320/playlist.m3u8
+#EXTINF:-1,TV8
+https://sorf.tvizlehd.com/tv8.m3u8?tkn=BeHtIKq7ytJQYX9Swm1TWw&tms=1515503575
 #EXTINF:-1,Fox TV
 https://59c7ea6bec1c6.streamlock.net/live/foxtv/playlist.m3u8
 #EXTINF:-1,show TV
