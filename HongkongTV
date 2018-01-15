@@ -1,1 +1,3 @@
+#EXTM3U
+#EXTINF:-1,One TV Hongkong
 http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
