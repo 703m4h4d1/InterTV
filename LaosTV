@@ -1,2 +1,6 @@
 #EXTINF:-1,Lao Thai US TV
 http://liveplay3.malimarcdn.com/laothaiustv/laothaius.sdp/playlist.m3u8
+#EXTINF:-1,HBC TV
+https://rrsatrtmp.tulix.tv/livecdn962/livecdn962/playlist.m3u8
+#EXTINF:-1,Hmong USA TV
+rtmp://liveplay3.malimarcdn.com/hmongusatv/hmongusatv.sdp
