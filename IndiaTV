@@ -26,5 +26,7 @@ https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsm
 https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
 #EXTINF:-1,India News Uttar Pradesh 
 https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
-#EXTINF:-1, India News Punjab
+#EXTINF:-1,India News Punjab
 https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewspunjab.smil/playlist.m3u8
+#EXTINF:-1,In Goa 24x7
+http://manage.qikstudio.in:1935/ingoa/ingoa/playlist.m3u8
