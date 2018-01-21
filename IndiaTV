@@ -1,4 +1,6 @@
 
 #EXTM3U
 #EXTINF:-1,NDTV 24x7
-https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8?set-segment-duration=quality&b=256,384
+https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+#EXTINF:-1,IndiaToday
+https://livestream-f.akamaihd.net/i/11965022_4086327_lsihwxbi8rhu8mahyrs_1@189832/master.m3u8
