@@ -16,3 +16,5 @@ rtmp://bloomtv.live-s.cdn.bitgravity.com/cdn-live
 http://nicls1-lh.akamaihd.net/z/ddnews_1@409133/manifest.f4m
 #EXTINF:-1,NewX
 https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+#EXTINF:-1,India News
+https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsNational.smil/playlist.m3u8
