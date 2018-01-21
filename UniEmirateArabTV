@@ -13,5 +13,9 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1,Sharqiya TV
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,Al Dafrah TV
+#EXTINF:-1,AlDafrah TV
 http://live.aldafrah.tv:1935/live/myLiveStream1/playlist.m3u8
+#EXTINF:-1,ALSharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Alsharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
