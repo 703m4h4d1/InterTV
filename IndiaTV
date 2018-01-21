@@ -10,3 +10,5 @@ http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/master.m3u8
 https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/timesnow.smil/playlist.m3u8
 #EXTINF:-1,ET Now
 https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/playlist.m3u8
+#EXTINF:-1,BTVi
+rtmp://bloomtv.live-s.cdn.bitgravity.com/cdn-live
