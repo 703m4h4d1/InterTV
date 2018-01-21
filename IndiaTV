@@ -36,3 +36,5 @@ rtmp://cp45648.live.edgefcs.net/live/T02117@71805
 https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/zoom_hls.smil/playlist.m3u8
 #EXTINF:-1,NDTV Prime
 https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
+#EXTINF:-1,NDTV India
+https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
