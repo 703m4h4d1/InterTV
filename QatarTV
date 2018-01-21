@@ -13,3 +13,7 @@ http://alrayyan1live.azureedge.net/alrayyan1/alrayyan1.smil/playlist.m3u8
 http://alkass-i.akamaihd.net/hls/live/205534/ka1B/live_1s20.m3u8
 #EXTINF:-1,Alkass Two
 http://alkass-i.akamaihd.net/hls/live/205534/kas2B/live_20s.m3u8
+#EXTINF:-1,Alkass Four
+http://alkasslive.streaming.mediaservices.windows.net/0c37b54b-80df-40b4-8ab7-adac401b1d13/f0136041-3e0e-4fea-a843-d0a05c9859bf.ism/manifest(format=m3u8-aapl-v3)
+#EXTINF:-1,Alkass Online
+http://alkass-i.akamaihd.net/hls/live/205534/onlinec/live_Os4.m3u8
