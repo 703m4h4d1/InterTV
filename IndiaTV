@@ -4,3 +4,5 @@
 https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
 #EXTINF:-1,IndiaToday
 https://livestream-f.akamaihd.net/i/11965022_4086327_lsihwxbi8rhu8mahyrs_1@189832/master.m3u8
+#EXTINF:-1,CNN News18
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/master.m3u8
