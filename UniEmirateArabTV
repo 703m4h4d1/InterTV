@@ -19,3 +19,26 @@ http://live.aldafrah.tv:1935/live/myLiveStream1/playlist.m3u8
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1,Alsharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,DubaiTV (Dubai Al Oula)
+http://dmifr.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
+#EXTINF:-1,Aan TV
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1,Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/playlist.m3u8
+#EXTINF:-1,Sama Dubai
+http://dmiffthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1,Dubai sport2
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
+#EXTINF:-1,Dubai sport1
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1,Dubai Noor
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1,Dubai Racing2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1,Dubai Racing1
+http://dmithrvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1,Dubai One TV
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+
