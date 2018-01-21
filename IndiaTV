@@ -22,3 +22,9 @@ https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsN
 https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
 #EXTINF:-1,India News Madhya Pradesh and Chhatisgarh
 https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
+#EXTINF:-1,India News Rajasthan
+https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
+#EXTINF:-1,India News Uttar Pradesh 
+https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
+#EXTINF:-1, India News Punjab
+https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewspunjab.smil/playlist.m3u8
