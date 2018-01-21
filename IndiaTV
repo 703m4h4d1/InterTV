@@ -46,6 +46,8 @@ http://45.79.203.234:1935/careworld/myStream/playlist.m3u8
 https://india-news18.akamaized.net/i/ibn7_hls_n_1@174951/master.m3u8
 #EXTINF:-1,Etv Kannada
 https://etv-bihar-jh.akamaized.net/i/etv_bihar_hls_1@175736/master.m3u8
+#EXTINF:-1,Etv Urdu
+https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/master.m3u8
 #EXTINF:-1,CNBC 18
 https://cnbc_tv18_hls-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/master.m3u8
 
