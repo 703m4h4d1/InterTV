@@ -41,4 +41,8 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3
 http://dmithrvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1,Dubai One TV
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1,HawasTV
+https://svs.itworkscdn.net/hawastvlive/hawastv/playlist.m3u8
+#EXTINF:-1,GEM TV
+http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
 
