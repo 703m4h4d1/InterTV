@@ -12,3 +12,7 @@ https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/ti
 https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/playlist.m3u8
 #EXTINF:-1,BTVi
 rtmp://bloomtv.live-s.cdn.bitgravity.com/cdn-live
+#EXTINF:-1,DD News
+http://nicls1-lh.akamaihd.net/z/ddnews_1@409133/manifest.f4m
+#EXTINF:-1,NewX
+https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
