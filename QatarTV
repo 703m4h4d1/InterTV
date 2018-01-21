@@ -17,3 +17,5 @@ http://alkass-i.akamaihd.net/hls/live/205534/kas2B/live_20s.m3u8
 http://alkasslive.streaming.mediaservices.windows.net/0c37b54b-80df-40b4-8ab7-adac401b1d13/f0136041-3e0e-4fea-a843-d0a05c9859bf.ism/manifest(format=m3u8-aapl-v3)
 #EXTINF:-1,Alkass Online
 http://alkass-i.akamaihd.net/hls/live/205534/onlinec/live_Os4.m3u8
+#EXTINF:-1,Libya Al-Ahrar TV
+https://5925eaffb8639.streamlock.net/live/livestream/playlist.m3u8/playlist.m3u8
