@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Qatar TV
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_303s.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_304s.m3u8
 #EXTINF:-1,Al Jazeera arabic
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index255.m3u8
 #EXTINF:-1,Al Jazeera English
