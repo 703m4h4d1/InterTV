@@ -1,8 +1,10 @@
-Bahrain TV تلفزيون البحرين		
+
+#EXTM3U
+#EXTINF:-1,Bahrain TV تلفزيون البحرين		
 http://185.105.4.106:1935/live/Bahrain TV/playlist.m3u8
-Bahrain International
+#EXTINF:-1,Bahrain International
 http://185.105.4.106:1935/live/Bahrain International/playlist.m3u8
-Bahrain Quran
+#EXTINF:-1,Bahrain Quran
 http://185.105.4.106:1935/live/Bahrain Quran/playlist.m3u8
-Bahrain sports البحرين الرياضيه
+#EXTINF:-1,Bahrain sports البحرين الرياضيه
 http://185.105.4.106:1935/live/Bahrain Sports/playlist.m3u8
