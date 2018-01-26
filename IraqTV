@@ -1,34 +1,34 @@
-
-Alsharqiya
+#EXTM3U
+#EXTINF:-1,Alsharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-Alsharqiya News
+#EXTINF:-1,Alsharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-alghadeer
+#EXTINF:-1,Alghadeer
 http://149.255.37.212:1935/live/alghadeer/manifest.m3u8
-Hona Baghdad TV (قناة هنا بغداد الفضائية)
+#EXTINF:-1,Hona Baghdad TV (قناة هنا بغداد الفضائية)
 https://svs.itworkscdn.net/hounabaghdadlive/hounabaghdad/playlist.m3u8
-Al Rasheed TV (موقع قناة الرشيد) 
+#EXTINF:-1,Al Rasheed TV (موقع قناة الرشيد) 
 http://streamer11.elementssys.com:8080/alrashid/alrashid_1mbps/manifest.f4m
-Dijlah TV (قناة دجلة الفضائية)
+#EXTINF:-1,Dijlah TV (قناة دجلة الفضائية)
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/index.m3u8
-Aletejah TV (Al Etejah TV / قناة الاتجاه الفضائية) 
+#EXTINF:-1,Aletejah TV (Al Etejah TV / قناة الاتجاه الفضائية) 
 http://212.18.231.213:1935/aletejahtv/aletejahtv_360p/playlist.m3u8
-Alahad TV (قناة العهد الفضائية)
+#EXTINF:-1,Alahad TV (قناة العهد الفضائية)
 http://176.241.91.122/hls-live/livepkgr/_definst_/myliveevent/alahad.m3u8
-AsiaSat TV (قناة آسيا)
+#EXTINF:-1,AsiaSat TV (قناة آسيا)
 http://app.asiasat.tv:1935/live/myStream/playlist.m3u8
-Alsumaria TV (شبکه تلویزیونی السومریه)
+#EXTINF:-1,Alsumaria TV (شبکه تلویزیونی السومریه)
 https://svs.itworkscdn.net/alsumariatvlive/smil:sumariamob.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDE4IDM6MjE6MDUgQU0maGFzaF92YWx1ZT1GZ0NvdVN5bWJyY0p2ekpQSzhCZXpnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE3Nw==
-Al-Rafidain TV (قناة الرافدين الفضائية)
+#EXTINF:-1,Al-Rafidain TV (قناة الرافدين الفضائية)
 http://fra6.edge.tmed.pw/arrafidaintv/abr_live/playlist.m3u8
-GK Channel( کەناڵی ئاسمانی گەلی کوردستان )
+#EXTINF:-1,GK Channel( کەناڵی ئاسمانی گەلی کوردستان )
 http://217.182.206.32/hls/channel_a.m3u8
-Speda TV (Sepideh TV / كه‌ناڵی سپێده‌) 
+#EXTINF:-1,Speda TV (Sepideh TV / كه‌ناڵی سپێده‌) 
 http://kurd-live.com:1935/live/speda/playlist.m3u8
-Kurdish News Network (KNN / KNNC) 
+#EXTINF:-1,Kurdish News Network (KNN / KNNC) 
 http://51.254.209.160:1935/knnlive/_definst_/mystream/playlist.m3u8
-Kurdistan TV
+#EXTINF:-1,Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/smil:myStream.smil/playlist.m3u8
-KurdMAX TV
+#EXTINF:-1,KurdMAX TV
 http://31.14.40.139:1935/liveTrans/myStream/playlist.m3u8
 
