@@ -20,3 +20,5 @@ https://tls.edge.live.tmt-cdn.net/daf-live/_definst_/smil:ATV_ABR.smil/playlist.
 https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8
 #EXTINF:-1,KiKA
 https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/master.m3u8
+#EXTINF:-1,Souvenirs From Earth (SFE)
+http://live.streaming.rngd.cloud/sfe/live/playlist.m3u8
