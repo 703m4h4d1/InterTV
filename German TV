@@ -10,3 +10,13 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1,n-tv
 https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8
+#EXTINF:-1,Tagesschau 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1,Das Erste
+https://daserstelive-lh.akamaihd.net/i/daserste_int@38088/master.m3u8
+#EXTINF:-1,Der Aktionär TV
+https://tls.edge.live.tmt-cdn.net/daf-live/_definst_/smil:ATV_ABR.smil/playlist.m3u8
+#EXTINF:-1,RiC
+https://58b42f6c8c9bf.streamlock.net/live/rictv/playlist.m3u8
+#EXTINF:-1,KiKA
+https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/master.m3u8
