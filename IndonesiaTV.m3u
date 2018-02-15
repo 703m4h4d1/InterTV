@@ -147,6 +147,8 @@ https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
 http://122.248.32.234:1935/ch11/myStream/chunklist.m3u8
 #EXTINF:-1,SNTV	
 http://svr.sntivi.id:1935/live/sntv/playlist.m3u8
+#EXTINF:-1,Spacetoon TV
+https://kmklive-lh.akamaihd.net/i/spacetoon_geo@586951/index_360_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Sultra TV	
 http://tvsultra.onlivestreaming.net/tvsultra/playlist.m3u8
 #EXTINF:-1,Surau TV	
