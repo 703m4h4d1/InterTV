@@ -1,24 +1,25 @@
-Russia 24
+#EXTM3U
+#EXTINF:-1,Russia 24
 https://livehlsvgtrk.cdnvideo.ru/live/smil:r24.smil/playlist.m3u8
-RTR Planeta
+#EXTINF:-1,RTR Planeta
 https://livehlsvgtrk.cdnvideo.ru/live/smil:rtrp.smil/playlist.m3u8
-TV Rain
+#EXTINF:-1,TV Rain
 https://s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/playlist.m3u8
-1TV
+#EXTINF:-1,1TV
 https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv.m3u8
-Russia Today
+#EXTINF:-1,Russia Today
 https://secure-streams.akamaized.net/rt/index2500.m3u8
-TV Tour
+#EXTINF:-1,TV Tour
 http://wse.planeta-online.tv:1935/live/channel_2/playlist.m3u8
-Rusiya Al-Yaum
+#EXTINF:-1,Rusiya Al-Yaum
 https://secure-streams.akamaized.net/rt-arab/index400.m3u8
-Mir TV 3
+#EXTINF:-1,Mir TV 3
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-Premiere.TV
+#EXTINF:-1,Premiere TV
 http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
-BST
+#EXTINF:-1,BST
 http://83.222.205.40/bst/playlist.m3u8
-Fresh TV
+#EXTINF:-1,Fresh TV
 http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
-RT Documentary
+#EXTINF:-1,RT Documentary
 https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
