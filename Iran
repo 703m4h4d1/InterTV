@@ -2,3 +2,5 @@
 #EXTM3U
 #EXTINF:-1,PressTV
 http://107.189.40.49:1935/live/ngrp:ptven_all/playlist.m3u8
+#EXTINF:-1,HispanTV
+https://5a61de8ed719d.streamlock.net/live/ngrp:hispantv_all/playlist.m3u8
