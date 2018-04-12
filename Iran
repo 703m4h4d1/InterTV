@@ -4,6 +4,8 @@
 http://107.189.40.49:1935/live/ngrp:ptven_all/playlist.m3u8
 #EXTINF:-1,HispanTV
 https://5a61de8ed719d.streamlock.net/live/ngrp:hispantv_all/playlist.m3u8
+#EXTINF:-1,IRIB TV1
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/playlist.m3u8
 #EXTINF:-1,IRIB TV3
 http://77.238.121.147/live-53/smil:53_tv3.smil/playlist.m3u8
 #EXTINF:-1,IRINN
