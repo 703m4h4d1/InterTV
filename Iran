@@ -6,6 +6,8 @@ http://107.189.40.49:1935/live/ngrp:ptven_all/playlist.m3u8
 https://5a61de8ed719d.streamlock.net/live/ngrp:hispantv_all/playlist.m3u8
 #EXTINF:-1,IFILM
 http://cdn1.live.irib.ir:1935/channel-live/smil:ifilmfa/playlist.m3u8
+#EXTINF:-1,IRIB Abadan TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:abadan/playlist.m3u8
 #EXTINF:-1,IRIB TV1
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/playlist.m3u8
 #EXTINF:-1,IRIB TV2
