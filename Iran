@@ -8,6 +8,8 @@ https://5a61de8ed719d.streamlock.net/live/ngrp:hispantv_all/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:ifilmfa/playlist.m3u8
 #EXTINF:-1,IRIB Abadan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:abadan/playlist.m3u8
+#EXTINF:-1,IRIB Esfahan TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:esfahan/playlist.m3u8
 #EXTINF:-1,IRIB TV1
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/playlist.m3u8
 #EXTINF:-1,IRIB TV2
@@ -18,10 +20,18 @@ http://77.238.121.147/live-53/smil:53_tv3.smil/playlist.m3u8
 http://sl11.telewebion.com:1935/devices/_definst_/tv4-500k.stream/playlist.m3u8
 #EXTINF:-1,IRIB TV5
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/playlist.m3u8
+#EXTINF:-1,IRIB Mostanad
+http://cdn1.live.irib.ir:1935/channel-live/smil:mostanad/playlist.m3u8
 #EXTINF:-1,IRIB Namayesh TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:namayesh/playlist.m3u8
 #EXTINF:-1,IRIB Nahand TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:sahand/playlist.m3u8
+#EXTINF:-1,IRIB Quran TV - 
+http://cdn1.live.irib.ir:1935/channel-live/smil:quran/playlist.m3u8
+#EXTINF:-1,IRIB Salamat TV - شبکه 
+http://cdn1.live.irib.ir:1935/channel-live/smil:salamat/playlist.m3u8
+#EXTINF:-1,IRIB Shoma TV - 
+http://cdn1.live.irib.ir:1935/channel-live/smil:shoma/playlist.m3u8
 #EXTINF:-1,Jaam-ejam 1
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv4/playlist.m3u8
 #EXTINF:-1,IRIB Nasim TV
