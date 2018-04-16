@@ -34,6 +34,8 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:khoozestan/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:ofogh/playlist.m3u8
 #EXTINF:-1,IRIB Sahar 2 TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:sahar2/playlist.m3u8
+#EXTINF:-1,IRIB Semnan TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:semnan/playlist.m3u8
 #EXTINF:-1,IRIB Tamasha TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:tamasha/playlist.m3u8
 #EXTINF:-1,IRIB TV1
