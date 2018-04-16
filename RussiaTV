@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, CTC
+http://stream.moskvatv.com/sts/sts/playlist.m3u8
 #EXTINF:-1,Russia 24
 https://livehlsvgtrk.cdnvideo.ru/live/smil:r24.smil/playlist.m3u8
 #EXTINF:-1,RTR Planeta
@@ -21,8 +23,16 @@ http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
 http://83.222.205.40/bst/playlist.m3u8
 #EXTINF:-1,Fresh TV
 http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,RT News
+https://secure-streams.akamaized.net/rt/index.m3u8
+#EXTINF:-1,RT UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:-1,RT Documentary
 https://secure-streams.akamaized.net/rt-doc/index1600.m3u8
+#EXTINF:-1,Russia 1
+http://stream.moskvatv.com/russia1/russia1/playlist.m3u8
 #EXTINF:-1,ShansonTV
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1,RBCTV
