@@ -8,6 +8,10 @@ https://5a61de8ed719d.streamlock.net/live/ngrp:hispantv_all/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:ifilmfa/playlist.m3u8
 #EXTINF:-1,IRIB Abadan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:abadan/playlist.m3u8
+#EXTINF:-1,IRIB Al Alam TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:alalam/playlist.m3u8
+#EXTINF:-1,IRIB Aflak TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:aflak/playlist.m3u8
 #EXTINF:-1,IRIB Baran TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:baran/playlist.m3u8
 #EXTINF:-1,IRIB Bazaar TV
@@ -16,10 +20,14 @@ http://s3.telewebion.com:1935/devices/bazar-500k.stream/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:esfahan/playlist.m3u8
 #EXTINF:-1,IRIB Fars TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
+#EXTINF:-1,IRIB Kordestan TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:kordestan/playlist.m3u8
 #EXTINF:-1,IRIB Khuzestan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:khoozestan/playlist.m3u8
 #EXTINF:-1,IRIB Ofogh TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:ofogh/playlist.m3u8
+#EXTINF:-1,IRIB Sahar 2 TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:sahar2/playlist.m3u8
 #EXTINF:-1,IRIB Tamasha TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:tamasha/playlist.m3u8
 #EXTINF:-1,IRIB TV1
