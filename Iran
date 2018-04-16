@@ -12,6 +12,10 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:abadan/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:alalam/playlist.m3u8
 #EXTINF:-1,IRIB Aflak TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:aflak/playlist.m3u8
+#EXTINF:-1,IRIB Aftab TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:aftab/playlist.m3u8
+#EXTINF:-1,IRIB Amoozesh TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:amouzesh/playlist.m3u8
 #EXTINF:-1,IRIB Baran TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:baran/playlist.m3u8
 #EXTINF:-1,IRIB Bazaar TV
