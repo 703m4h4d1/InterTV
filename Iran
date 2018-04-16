@@ -18,6 +18,8 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:esfahan/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
 #EXTINF:-1,IRIB Khuzestan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:khoozestan/playlist.m3u8
+#EXTINF:-1,IRIB Ofogh TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:ofogh/playlist.m3u8
 #EXTINF:-1,IRIB Tamasha TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:tamasha/playlist.m3u8
 #EXTINF:-1,IRIB TV1
