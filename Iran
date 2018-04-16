@@ -10,8 +10,12 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:ifilmfa/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:abadan/playlist.m3u8
 #EXTINF:-1,IRIB Baran TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:baran/playlist.m3u8
+#EXTINF:-1,IRIB Bazaar TV
+http://s3.telewebion.com:1935/devices/bazar-500k.stream/playlist.m3u8
 #EXTINF:-1,IRIB Esfahan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:esfahan/playlist.m3u8
+#EXTINF:-1,IRIB Fars TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
 #EXTINF:-1,IRIB TV1
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/playlist.m3u8
 #EXTINF:-1,IRIB TV2
@@ -38,7 +42,11 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:shoma/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv4/playlist.m3u8
 #EXTINF:-1,IRIB Nasim TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:nasim/playlist.m3u8
+#EXTINF:-1,IRIB Pooya TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:pouya/playlist.m3u8
 #EXTINF:-1,IRINN
 http://cdn1.live.irib.ir:1935/channel-live/smil:irinn/playlist.m3u8
+#EXTINF:-1,Press TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:presstv/playlist.m3u8
 
 
