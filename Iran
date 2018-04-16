@@ -16,6 +16,8 @@ http://s3.telewebion.com:1935/devices/bazar-500k.stream/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:esfahan/playlist.m3u8
 #EXTINF:-1,IRIB Fars TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
+#EXTINF:-1,IRIB Tamasha TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:tamasha/playlist.m3u8
 #EXTINF:-1,IRIB TV1
 http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/playlist.m3u8
 #EXTINF:-1,IRIB TV2
