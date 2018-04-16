@@ -26,6 +26,8 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:esfahan/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
 #EXTINF:-1,IRIB Kordestan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:kordestan/playlist.m3u8
+#EXTINF:-1,IRIB Kahalijefars TV
+http://cdn1.live.irib.ir:1935/channel-live/smil:khalijefars/playlist.m3u8
 #EXTINF:-1,IRIB Khuzestan TV
 http://cdn1.live.irib.ir:1935/channel-live/smil:khoozestan/playlist.m3u8
 #EXTINF:-1,IRIB Ofogh TV
