@@ -43,3 +43,5 @@ http://live-ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Barbaraki TV 
 http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+#EXTINF:-1,POCCNR 1
+https://livehlsvgtrk.cdnvideo.ru/hls/russia_hd/playlist_vtt.m3u8
