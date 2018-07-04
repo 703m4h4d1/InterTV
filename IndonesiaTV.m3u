@@ -3,6 +3,8 @@
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1,Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1,Annabatv	
+http://stream.asianastream.com:1935/live/ngrp:annaba_all/playlist.m3u8
 #EXTINF:-1,AN TV	
 https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
 #EXTINF:-1,Aniplus	
