@@ -59,6 +59,8 @@ https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
 https://cdn-livetv1.metube.id/hls/inewstv_240/index.m3u8
 #EXTINF:-1,InsanTV	
 http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+#EXTINF:-1,InsanTV	
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
 #EXTINF:-1,INTV	
 http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
 #EXTINF:-1,Jakarta Globe news Channel TV	
