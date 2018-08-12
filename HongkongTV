@@ -3,3 +3,5 @@
 http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
 #EXTINF:-1,Health TV (健康卫视)
 http://live.jkwshk.tv/AppName/StreamName.m3u8
+#EXTINF:-1,HKSTV (Hong Kong)
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
