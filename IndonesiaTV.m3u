@@ -9,8 +9,6 @@ http://stream.asianastream.com:1935/live/ngrp:annaba_all/playlist.m3u8
 https://cdn-livetv1.metube.id/hls/antv.m3u8
 #EXTINF:-1,Aniplus	
 http://video7.stream.mx:1935/raxatv/raxatv/playlist.m3u8
-#EXTINF:-1,Auto&Gadget	
-https://cdn-livetv.metube.id/hls/autogadget.m3u8
 #EXTINF:-1,Baraya TV Banten
 http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
 #EXTINF:-1,BatuTV	
@@ -25,12 +23,10 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1,BETV Bengkulu
 http://122.248.32.234:1935/ch26/myStream/playlist.m3u8
-#EXTINF:-1,Binus TV
-rtmp://202.58.181.205/binustv/binustv.flv
 #EXTINF:-1,BIOS TV	
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 #EXTINF:-1,Bloomberg TV	
-http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1,BMSTV Banyumas
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 #EXTINF:-1,CeriaTV Pekanbaru
