@@ -164,9 +164,9 @@ http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
 #EXTINF:-1,The Indonesia Channel	
 http://202.93.143.66:1935/aoraiptv/aora07/playlist.m3u8
 #EXTINF:-1,Trans TV	
-https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/playlist.m3u8
+https://cdn-livetv1.metube.id/hls/transtv_240/index.m3u8
 #EXTINF:-1,Trans7	
-https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
+https://cdn-livetv1.metube.id/hls/trans7.m3u8
 #EXTINF:-1,TV Edukasi	
 http://118.98.221.131/live/tvedukasi.smil/Playlist.m3u8
 #EXTINF:-1,TV9 Nusantara	
@@ -228,6 +228,6 @@ http://ummattv2.onlivestreaming.net/ummattv2/livestream/playlist.m3u8
 #EXTINF:-1,VOA indonesia	
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1,WesalTV	
-rtmp://119.235.249.60:1935/wesaltv/live
+http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1,YM TV	
 http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
