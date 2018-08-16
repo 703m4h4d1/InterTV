@@ -6,7 +6,7 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1,Annabatv	
 http://stream.asianastream.com:1935/live/ngrp:annaba_all/playlist.m3u8
 #EXTINF:-1,AN TV	
-https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
+https://cdn-livetv1.metube.id/hls/antv.m3u8
 #EXTINF:-1,Aniplus	
 http://video7.stream.mx:1935/raxatv/raxatv/playlist.m3u8
 #EXTINF:-1,Auto&Gadget	
