@@ -58,7 +58,7 @@ https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
 #EXTINF:-1,Ihsan TV	
 rtmp://119.82.224.75:1935/live/ahsantv
 #EXTINF:-1,Indosiar	
-https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
+https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
 #EXTINF:-1,iNews TV	
 https://cdn-livetv1.metube.id/hls/inewstv_240/index.m3u8
 #EXTINF:-1,InsanTV	
