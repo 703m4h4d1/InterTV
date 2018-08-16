@@ -48,7 +48,7 @@ http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/playlist.m3u8
 #EXTINF:-1,Foodtravel	
 https://cdn-livetv.metube.id/hls/foodtravel.m3u8
 #EXTINF:-1,GTV	
-https://edge.okezone.com/live/globaltv.m3u8
+https://cdn-livetv2.metube.id/hls/globaltv.m3u8
 #EXTINF:-1,IDX
 https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
 #EXTINF:-1,Ihsan TV	
@@ -78,15 +78,15 @@ rtmp://202.169.224.206/live/jogjatv
 #EXTINF:-1,JTV
 http://122.248.32.234:1935/ch2/myStream/chunklist.m3u8
 #EXTINF:-1,KompasTV	
-https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
+https://dmlive.vo.llnwd.net/dm/3/x6pz4sa/live-3.m3u8
 #EXTINF:-1,MadaniTV Ciracas
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
 #EXTINF:-1,Madu TV Tulungagung
-http://videostream.indostreamserver.com:1935/madufm/live/chunklist.m3u8
+http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
 #EXTINF:-1,MetroTV	
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,MGS TV	
-http://188.166.223.66:8081/live_application/live_stream/playlist.m3u8
+http://wowza60.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 #EXTINF:-1,MimozaTV	
 rtmp://mimozatv.onlivestreaming.net/mimozatv
 #EXTINF:-1,MNC Fashion	
