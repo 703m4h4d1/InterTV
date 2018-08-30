@@ -9,6 +9,8 @@ http://stream.asianastream.com:1935/live/ngrp:annaba_all/playlist.m3u8
 https://cdn-livetv1.metube.id/hls/antv.m3u8
 #EXTINF:-1,Aniplus	
 http://video7.stream.mx:1935/raxatv/raxatv/playlist.m3u8
+#EXTINF:-1, Balikpapan TV
+http://122.248.32.234:1935/ch10/myStream/playlist.m3u8
 #EXTINF:-1,Baraya TV Banten
 http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
 #EXTINF:-1,BatuTV	
@@ -115,6 +117,8 @@ https://cdn-livetv1.metube.id/hls/musicchannel.m3u8
 http://103.65.236.253:1935/live/liventv1/playlist.m3u8
 #EXTINF:-1,Ochannel	
 https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8
+#EXTINF:-1,Padang TV
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
 #EXTINF:-1,PJTV Bandung
 http://122.248.32.234:1935/ch3/myStream/chunklist.m3u8
 #EXTINF:-1,PKTV Bontang	
@@ -147,6 +151,8 @@ http://122.248.32.234:1935/ch13/myStream/playlist.m3u8
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1,SCTV	
 https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+#EXTINF:-1,Simpang 5 TV
+http://122.248.32.234:1935/ch20/myStream/playlist.m3u8
 #EXTINF:-1,SKTV Bandung
 rtmp://122.248.32.234:1935/ch3/myStream
 #EXTINF:-1,SMTV sumedang
