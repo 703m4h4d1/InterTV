@@ -13,8 +13,6 @@ http://video7.stream.mx:1935/raxatv/raxatv/playlist.m3u8
 http://122.248.32.234:1935/ch10/myStream/playlist.m3u8
 #EXTINF:-1,Baraya TV Banten
 http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
-#EXTINF:-1,BatuTV	
-rtmp://202.69.108.114/oflaDemo/batu
 #EXTINF:-1,BBSTV Surabaya
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 #EXTINF:-1,Beritasatu English	
