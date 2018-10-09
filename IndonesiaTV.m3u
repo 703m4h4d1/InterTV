@@ -37,6 +37,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,DAAI TV
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+#EXTINF:-1,Dangdutz
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 #EXTINF:-1,Dhamma TV
 http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 #EXTINF:-1,DupeTV Dumai	
@@ -45,10 +47,14 @@ http://dupetv.onlivestreaming.net/dupetv/livestream/playlist.m3u8
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
 #EXTINF:-1,Efarina TV Simalungun
 http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/playlist.m3u8
+#EXTINF:-1,Foodie Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1,Foodtravel	
 https://cdn-livetv.metube.id/hls/foodtravel.m3u8
 #EXTINF:-1,GTV	
 https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+#EXTINF:-1,Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1,IDX
 https://cdn-livetv1.metube.id/hls/idxchannel.m3u8
 #EXTINF:-1,Ihsan TV	
