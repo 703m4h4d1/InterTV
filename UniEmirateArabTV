@@ -1,48 +1,47 @@
 #EXTM3U
-#EXTINF:-1,Alhadath
-https://live.alhadath.net/hadath/myStream/playlist.m3u8?sds
-#EXTINF:-1,Sky news Arabia
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1,CNBC Arabia
-https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
-#EXTINF:-1,Orient News
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
-#EXTINF:-1,Sharjah TV [تلفزيون الشارقة]
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1,Sharjah Sports [قناة الشارقة الرياضية] 
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1,Sharqiya TV
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,AlDafrah TV
-http://live.aldafrah.tv:1935/live/myLiveStream1/playlist.m3u8
-#EXTINF:-1,ALSharqiya TV
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1,Alsharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,DubaiTV (Dubai Al Oula)
-http://dmifr.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1,Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
-#EXTINF:-1,Aan TV
+#EXTINF:-1,	Aan TV	
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
-#EXTINF:-1,Dubai Zaman
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/playlist.m3u8
-#EXTINF:-1,Sama Dubai
-http://dmiffthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1,Dubai sport2
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
-#EXTINF:-1,Dubai sport1
-http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,Dubai Noor
+#EXTINF:-1,	AlDafrah TV	
+http://live.aldafrah.tv:1935/live/myLiveStream1/playlist.m3u8
+#EXTINF:-1,	Alhadath	
+https://live.alhadath.net/hadath/myStream/playlist.m3u8?sds
+#EXTINF:-1,	Alsharqiya News	
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,	ALSharqiya TV	
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,	CNBC Arabia	
+https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:-1,	Dubai Noor	
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1,Dubai Racing2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1,Dubai Racing1
-http://dmithrvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1,Dubai One TV
+#EXTINF:-1,	Dubai One TV	
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1,HawasTV
-https://svs.itworkscdn.net/hawastvlive/hawastv/playlist.m3u8
-#EXTINF:-1,GEM TV
+#EXTINF:-1,	Dubai Racing1	
+http://dmithrvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1,	Dubai Racing2	
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1,	Dubai sport1	
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1,	Dubai sport2	
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8
+#EXTINF:-1,	Dubai Zaman	
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/playlist.m3u8
+#EXTINF:-1,	DubaiTV (Dubai Al Oula)	
+http://dmifr.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1,	Future TV	
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
+#EXTINF:-1,	GEM TV	
 http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
-
+#EXTINF:-1,	HawasTV	
+https://svs.itworkscdn.net/hawastvlive/hawastv/playlist.m3u8
+#EXTINF:-1,	Orient News	
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist.m3u8
+#EXTINF:-1,	Sama Dubai	
+http://dmiffthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1,	Sharjah Sports [قناة الشارقة الرياضية]	
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1,	Sharjah TV [تلفزيون الشارقة]	
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1,	Sharqiya TV	
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1,	Sky news Arabia	
+https://stream.skynewsarabia.com/hls/sna.m3u8
