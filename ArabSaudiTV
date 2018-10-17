@@ -1,47 +1,45 @@
 #EXTM3U
-#EXTINF:-1,Saudi1
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/index.m3u8
-#EXTINF:-1,Al Ekhbariya
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live.m3u8
-#EXTINF:-1,Al Eqtisadiya
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/index.m3u8
-#EXTINF:-1,Al arabiya
+#EXTINF:-1,	Al arabiya	
 https://live.alarabiya.net/alarabiya/myStream_720p/playlist.m3u8
-#EXTINF:-1,Al Thaqafiya
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel6/index.m3u8
-#EXTINF:-1,Nilat TV
-http://82.212.74.3:8000/live/7505.m3u8
-#EXTINF:-1,DMM TV
-http://82.212.74.2:8000/live/7314.m3u8
-#EXTINF:-1,Al Danah TV 
+#EXTINF:-1,	Al Danah TV	
 http://82.212.74.5:8000/live/7723.m3u8
-#EXTINF:-1,Selah TV
-http://82.212.74.3:8000/live/7501.m3u8
-#EXTINF:-1,Al Dana Kids Channel
-http://82.212.74.5:8000/live/7723.m3u8
-#EXTINF:-1,Al Riyadiya
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel4/index.m3u8
-#EXTINF:-1,Iqraa TV
-http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/playlist.m3u8
-#EXTINF:-1,Al Quran 
-http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
-#EXTINF:-1,Al Sunna
-https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
-#EXTINF:-1,Makkah TV
-http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
-#EXTINF:-1,Wesal TV
-http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
-#EXTINF:-1,Wesal Haq TV 
-http://live.wesalhaq.tv/w/whaq_360p/playlist.m3u8
-#EXTINF:-1,Al Jameela
+#EXTINF:-1,	Al Ekhbariya	
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live.m3u8
+#EXTINF:-1,	Al Eqtisadiya	
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/index.m3u8
+#EXTINF:-1,	Al Jameela	
 http://de.live.net.sa:1935/live/alj/playlist.m3u8
-#EXTINF:-1,Resalat Al Islam Network
-http://82.212.74.3:8000/live/7502.m3u8
-#EXTINF:-1,SemsemTV
-http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
-#EXTINF:-1,SalamTV
-http://82.212.74.100:8000/live/8124.m3u8
-#EXTINF:-1,Al Qassim TV
+#EXTINF:-1,	Al Qassim TV	
 http://82.212.74.2:8000/live/7341.m3u8
-#EXTINF:-1,AyaatTV
+#EXTINF:-1,	Al Quran	
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
+#EXTINF:-1,	Al Riyadiya	
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel4/index.m3u8
+#EXTINF:-1,	Al Sunna	
+https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
+#EXTINF:-1,	Al Thaqafiya	
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel6/index.m3u8
+#EXTINF:-1,	AyaatTV	
 http://m.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1,	DMM TV	
+http://82.212.74.2:8000/live/7314.m3u8
+#EXTINF:-1,	Iqraa TV	
+http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/playlist.m3u8
+#EXTINF:-1,	Makkah TV	
+http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
+#EXTINF:-1,	Nilat TV	
+http://82.212.74.3:8000/live/7505.m3u8
+#EXTINF:-1,	Resalat Al Islam Network	
+http://82.212.74.3:8000/live/7502.m3u8
+#EXTINF:-1,	SalamTV	
+http://82.212.74.100:8000/live/8124.m3u8
+#EXTINF:-1,	Saudi1	
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel1/index.m3u8
+#EXTINF:-1,	Selah TV	
+http://82.212.74.3:8000/live/7501.m3u8
+#EXTINF:-1,	SemsemTV	
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+#EXTINF:-1,	Wesal Haq TV	
+http://live.wesalhaq.tv/w/whaq_360p/playlist.m3u8
+#EXTINF:-1,	Wesal TV	
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
