@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,	2UE Sydney	
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+#EXTINF:-1,	3AW Melbourne	
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1,	4BC Brisbane	
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1,	ABC News 24	
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
+#EXTINF:-1,	Expo Channel	
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
