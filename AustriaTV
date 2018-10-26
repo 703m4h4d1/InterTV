@@ -1,0 +1,9 @@
+Austria 24 (Opt-1)	rtmp://streaming.austria24.tv/live/stream_360p
+Austria 24 (Opt-2)	rtmp://streaming.austria24.tv/live/mp4:stream_720p
+FS1 Salzburg	http://stream.fs1.tv:8080/hls/webstream.m3u8
+Okto TV	http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+ORF 1	http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+ORF 2	http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+ORF 3	http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+ORF Sport	http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+ORF Sport +	http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
