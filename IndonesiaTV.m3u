@@ -52,7 +52,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1,Foodtravel	
 https://cdn-livetv.metube.id/hls/foodtravel.m3u8
 #EXTINF:-1,GTV	
-https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+https://cdn-livetv1.metube.id/hls/globaltv.m3u8
 #EXTINF:-1,Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1,IDX
@@ -62,7 +62,7 @@ rtmp://119.82.224.75:1935/live/ahsantv
 #EXTINF:-1,Indosiar	
 https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
 #EXTINF:-1,iNews TV	
-https://cdn-livetv1.metube.id/hls/inewstv_240/index.m3u8
+https://cdn-livetv1.metube.id/hls/inewstv.m3u8
 #EXTINF:-1,InsanTV	
 http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
 #EXTINF:-1,Inspira TV	
@@ -103,6 +103,10 @@ https://cdn-livetv1.metube.id/hls/mncentertainment_240/index.m3u8
 https://cdn-livetv1.metube.id/hls/life_240/index.m3u8
 #EXTINF:-1,MNC Lifestyle	
 https://cdn-livetv1.metube.id/hls/mnclifestyle_240/index.m3u8
+#EXTINF:-1,MNC shop
+https://cdn-livetv1.metube.id/hls/mncshop.m3u8
+#EXTINF:-1,MNCTV
+https://cdn-livetv1.metube.id/hls/mnctv.m3u8
 #EXTINF:-1,Hidayah	
 https://cdn-livetv1.metube.id/hls/mncmuslim.m3u8
 #EXTINF:-1,MNC News	
@@ -136,7 +140,7 @@ http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist
 #EXTINF:-1,RBTV Bengkulu
 http://122.248.32.234:1935/ch12/myStream/playlist.m3u8
 #EXTINF:-1,RCTI	
-https://edge.okezone.com/live/rctioke.m3u8
+https://edge.okezone.com/live/epl.m3u8
 #EXTINF:-1,RCTV Cirebon
 http://122.248.32.234:1935/ch9/myStream/chunklist.m3u8
 #EXTINF:-1,RiauTV	
