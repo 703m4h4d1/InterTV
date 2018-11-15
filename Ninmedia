@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", MK TV
 http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
 #EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", MALEO CHANNEL
