@@ -1,0 +1,92 @@
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-1
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-2
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-3
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-4
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-5
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-6
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-7
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-8
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-9
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-9/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-10
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-10/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-11
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-12
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-12/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-13
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-14
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1,group-title="CCTV CHINA", CCTV-15
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/cctv-15/1.m3u8
+ 
+ 
+#EXTINF:-1,group-title="TV CHINA", ZHEJIANG
+http://223.110.241.130:6610/gitv/live1/G_ZHEJIANG-HQ/ZHEJIANG-HQ/
+#EXTINF:-1,group-title="TV CHINA", JIANGSU
+http://223.110.241.130:6610/gitv/live1/G_JIANGSU-HQ/G_JIANGSU-HQ/
+#EXTINF:-1,group-title="TV CHINA", HUNAN
+http://223.110.241.130:6610/gitv/live1/G_HUNAN-HQ/G-HUNAN-HQ/
+#EXTINF:-1,group-title="TV CHINA", SHENZHEN
+http://223.110.241.130:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/
+#EXTINF:-1,group-title="TV CHINA", BEIJING
+http://223.110.241.130:6610/gitv/live1/G_BEIJING-HQ/G_BEIJING-HQ/
+#EXTINF:-1,group-title="TV CHINA", DONGFANG
+http://223.110.241.130:6610/gitv/live1/G_DONGFANG-HQ/G_DONGFANG-HQ/
+#EXTINF:-1,group-title="TV CHINA", GUANGDONG
+http://223.110.241.130:6610/gitv/live1/G_GUANGDONG-HQ/G_GUANGDONG-HQ/
+#EXTINF:-1,group-title="TV CHINA", TIANJIN
+http://223.110.241.130:6610/gitv/live1/G_TIANJIN-HQ/G_TIANJIN-HQ/
+#EXTINF:-1,group-title="TV CHINA", HUBEI
+http://223.110.241.130:6610/gitv/live1/G_HUBEI-HQ/G_HUBEI-HQ/
+#EXTINF:-1,group-title="TV CHINA", SHANDONG
+http://223.110.241.130:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
+#EXTINF:-1,group-title="TV CHINA", LIAONING
+http://223.110.241.130:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ/
+#EXTINF:-1,group-title="TV CHINA", HEILONGJIANG
+http://223.110.241.130:6610/gitv/live1/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ/
+#EXTINF:-1,group-title="TV CHINA", CHONGQING
+http://223.110.241.130:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
+#EXTINF:-1,group-title="TV CHINA", XIAMEN
+http://223.110.241.130:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
+#EXTINF:-1,group-title="TV CHINA", JILIN
+http://223.110.241.130:6610/gitv/live1/G_JILIN/G_JILIN/
+#EXTINF:-1,group-title="TV CHINA", SHANXI
+http://223.110.241.130:6610/gitv/live1/G_SHANXI/G_SHANXI/
+#EXTINF:-1,group-title="TV CHINA", QINGHAI
+http://223.110.241.130:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
+#EXTINF:-1,group-title="TV CHINA", GUIZHOU
+http://223.110.241.130:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
+#EXTINF:-1,group-title="TV CHINA", YUNNAN
+http://223.110.241.130:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
+#EXTINF:-1,group-title="TV CHINA", NINGXIA
+http://223.110.241.130:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
+#EXTINF:-1,group-title="TV CHINA", XINJIANG
+http://223.110.241.130:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+#EXTINF:-1,group-title="TV CHINA", GANSU
+http://223.110.241.130:6610/gitv/live1/G_GANSU/G_GANSU/
+#EXTINF:-1,group-title="TV CHINA", XIZANG
+http://223.110.241.130:6610/gitv/live1/G_XIZANG/G_XIZANG/
+#EXTINF:-1,group-title="TV CHINA", NEIMENGGU
+http://223.110.241.130:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
+#EXTINF:-1,group-title="TV CHINA", JIANGSI
+http://223.110.241.130:6610/cntv/live1/jiangxistv/jiangxistv
+#EXTINF:-1,group-title="TV CHINA", ANHUI
+http://223.110.241.130:6610/cntv/live1/anhuistv/anhuistv
+#EXTINF:-1,group-title="TV CHINA", SICHUAN
+http://223.110.241.130:6610/cntv/live1/sichuanstv/sichuanstv
+#EXTINF:-1,group-title="TV CHINA", GUANGSI
+http://223.110.241.130:6610/cntv/live1/guangxistv/guangxistv
+#EXTINF:-1,group-title="TV CHINA", HENAN
+http://223.110.241.130:6610/cntv/live1/henanstv/henanstv
+#EXTINF:-1,group-title="TV CHINA", DONGNAN
+http://223.110.241.130:6610/cntv/live1/dongnanstv/dongnanstv
