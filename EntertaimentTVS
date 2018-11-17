@@ -1,0 +1,54 @@
+#EXTM3U	
+
+#EXTINF:-1,ARIRANG	
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8
+#EXTINF:-1,B LIFESTYLE HD	
+http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/chunklist_w251745252_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPXBoWWNPYTlzSExwclVvVmtnaHc1QTRuQjZTRWZxYjhSeDh2Y1VNQkc5QzZaZUdVZnJVdFFMdTJuQllvNmQ1UkU=.m3u8
+#EXTINF:-1,canal 13 nicaragua	
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+#EXTINF:-1,CCTV 4	
+http://rr2.dens.tv/s/s19/01.m3u8
+#EXTINF:-1,Extrema TV	
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,FASHION TV	
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:-1,Fight time (ufc)	
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1,FOODIE CHANNEL	
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1,FOXlive	
+http://cdn2.bear-tv.com/freetv/TOT_foxlife/chunks.m3u8
+#EXTINF:-1,HD Media	
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,HOME & LIVING	
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1,K+ HD	
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1,KBS World	
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:-1K-DRAMA	
+http://rr2.dens.tv/s/s42/index2.m3u8
+#EXTINF:-1,KIX HD	
+http://rr.dens.tv/h/h07/index2.m3u8
+#EXTINF:-1,RAI PREMIUM HD	
+https://raipremium1-live.akamaized.net/hls/live/598328/raipremium1/raipremium_1800/chunklist.m3u8
+#EXTINF:-1,REDBULL TV	
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,RTP INTERNACIONAL	
+http://rr2.dens.tv/s/s38/index2.m3u8
+#EXTINF:-1,SBS IN	
+http://rr.dens.tv/h/h28/index2.m3u8
+#EXTINF:-1,TELE RED RETRO	
+http://k4.usastreams.com/Telesistemas/Telesistemas/media_w352570325.m3u8
+#EXTINF:-1,TLC	
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,TRAVEL	
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,TV5 MONDE ASIE	
+http://rr2.dens.tv/s/s24/index2.m3u8
+#EXTINF:-1,TV5 MONDE STYLE	
+http://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/master.m3u8
+#EXTINF:-1,TVE SPAIN	
+http://rr2.dens.tv/s/s25/index2.m3u8
+#EXTINF:-1,Wow tv	
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
