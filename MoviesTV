@@ -1,0 +1,58 @@
+#EXTM3U	
+	
+#EXTINF:-1,&FLIX HD	
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&PICTURE HD	
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&PRIVE HD	
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&TV HD	
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,CELESTIAL CLASSIC MOVIE	
+http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1,CELESTIAL MOVIES HQ	
+http://rr2.dens.tv/s/s33/index2.m3u8
+#EXTINF:-1COMEDY CENTRAL	
+http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1NzowOSBBTSZoYXNoX3ZhbHVlPXdtOTREeDJORTFpZDRYbjBnRHZrT0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMXx1cGxheXwxNTI4MjUzODI5fDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1,DUBAI ONE	
+ttp://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,FOX CRIME HD	
+http://cdn2.bear-tv.com/freetv/TOT_Fox_claim_ENG/playlist.m3u8
+#EXTINF:-1,FOX HD	
+http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
+#EXTINF:-1,FOX MOVIES HD	
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1,FX HD	
+http://cdn2.bear-tv.com/freetv/TOT_FX_HD/chunks.m3u8
+#EXTINF:-1,HBO HOME	
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:-1,J'GO HD	
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+#EXTINF:-1,KIX	
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index2.m3u8
+#EXTINF:-1,MY CINEMA	
+http://rr3.dens.tv/s/s31/index2.m3u8
+#EXTINF:-1,PHOENIX	
+http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1,Showtime	
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,SONY MOVIE CHANNEL	
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,STAR CHINESE MOVIE	
+http://iliketot.dyndns.tv/29a09591a6604ff3b798cd7ef809e4bd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
+#EXTINF:-1,STAR CHINESE MOVIE LEGEND	
+http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1NzowOSBBTSZoYXNoX3ZhbHVlPXdtOTREeDJORTFpZDRYbjBnRHZrT0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMXx1cGxheXwxNTI4MjUzODI5fDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1,THRILL	
+http://rr2.dens.tv/s/s34/index2.m3u8
+#EXTINF:-1,WARNER TV	
+http://m88.intersteam-idc.com/live54/0x777_warnertv_720p/playlist.m3u8
+#EXTINF:-1,ZEE BIOSKOP HQ	
+http://rr2.dens.tv/s/s32/index2.m3u8
+#EXTINF:-1,ZEE CAFE HD	
+http://z5ams.akamaized.net/zeecafehd/tracks-v2a1/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD	
+http://z5ams.akamaized.net/zcinemahd/tracks-v2a1/index.m3u8
+#EXTINF:-1,ZEE MAGIC	
+http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE TV HD	
+http://z5ams.akamaized.net/zeetvhd/tracks-v2a1/index.m3u8
