@@ -19,6 +19,8 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1,KEENG MUSIC
 http://125.235.29.16/livetv/keeng.m3u8
+#EXTINF:-1,Live County music
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1,M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1,MiX Music
