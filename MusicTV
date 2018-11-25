@@ -43,6 +43,8 @@ https://radiou-live-cdn.campfyre.tv/rightbrainmedia-live-109/mp4:radioutv1/playl
 http://radiou-live-cdn.campfyre.tv/rightbrainmedia-live-109/mp4:spirit1/playlist.m3u8
 #EXTINF:-1,THE COUNTRY NETWORK
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1, 	TRT Müzik
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 #EXTINF:-1,VH 1	
 http://80.87.208.158:80/dna-71-tv-pc.m3u8
 #EXTINF:-1,VH 1 CLASSIC	
