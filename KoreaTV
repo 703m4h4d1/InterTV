@@ -1,0 +1,49 @@
+#EXTM3U		
+#EXTINF:-1 ,	Arirang (Opt-1)	
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,	Arirang (Opt-2)	
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
+#EXTINF:-1 ,	CBS (Opt-1)	
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 ,	CBS (Opt-2)	
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 ,	CMC	
+http://main1sb.everyon.tv:1935/etv1sb/_definst_/phd1/playlist.m3u8
+#EXTINF:-1 ,	CJB SBS
+http://121.78.118.51:1935/live/tv/tv.m3u8
+#EXTINF:-1 ,	EBS 2	
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,	EBS English	
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,	EBS Kids	
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,	EBS Plus 1	
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,	EBS Plus 2	
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 ,	ETN	
+http://wkntv.vo.llnwd.net/e10/a_live/51307026/mp4:ch044900/playlist.m3u8
+#EXTINF:-1 ,	G1	
+http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+#EXTINF:-1 ,	K+	
+http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,	KBC	
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+#EXTINF:-1 ,	KBS 2	
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 ,	KCTV	
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1 ,	KCTV-N	
+http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
+#EXTINF:-1 ,	KTV	
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1 ,	MTN	
+http://edge1.everyon.tv:1935/etv1sb/phd18/playlist.m3u8
+#EXTINF:-1 ,	TBC	
+http://221.157.125.232:1935/live/psike/playlist.m3u8
+#EXTINF:-1 ,	TV Chosun	
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 ,	YTN	
+http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
+#EXTINF:-1 ,	YTN Science	
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
