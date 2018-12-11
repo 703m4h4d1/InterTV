@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="KIDS CHANNEL", BIZNET KID
-http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1763834580_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-#EXTINF:-1, group-title="KIDS CHANNEL", DISNEY JR
-http://93.87.85.10/PLTV/88888888/224/3221226893/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSITetKXkxKb%2FLn%2BDS1CmTnU%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001907%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1, group-title="KIDS CHANNEL", MY KIDS
-http://rr3.dens.tv/s/s30/index2.m3u8
-#EXTINF:-1, group-title="KIDS CHANNEL", NICK JR
-http://cdn2.bear-tv.com/freetv/TOT_nickjr_eng/playlist.m3u8
-#EXTINF:-1, group-title="KIDS CHANNEL", Animation
+#EXTINF:-1,	Animation	
 http://203.154.243.31:8081/live/umicartoon/index.m3u8
-#EXTINF:-1, group-title="KIDS CHANNEL", MIAO MI
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1, group-title="KIDS CHANNEL", RAXA CARTOON TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1, group-title="KIDS CHANNEL", CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1, group-title="KIDS CHANNEL", BOOMERANG KIDS
+#EXTINF:-1,	BIZNET KID	
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w1763834580_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
+#EXTINF:-1,	BOOMERANG KIDS	
 http://213.59.128.162:9999/play/Boomerang
-#EXTINF:-1, group-title="KIDS CHANNEL", NICKELODEON
+#EXTINF:-1,	CARTOON NETWORK	
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1,	DISNEY JR	
+http://93.87.85.10/PLTV/88888888/224/3221226893/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9qNtgfBDs7umS%2FENTcD6cSITetKXkxKb%2FLn%2BDS1CmTnU%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001907%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,	MIAO MI	
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1,	MY KIDS	
+http://rr3.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1,	NICK JR	
+http://cdn2.bear-tv.com/freetv/TOT_nickjr_eng/playlist.m3u8
+#EXTINF:-1,	NICKELODEON	
 http://unicast.bbxnet.sk/live/nickelodeon/playlist.m3u8
+#EXTINF:-1,	RAXA CARTOON TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
