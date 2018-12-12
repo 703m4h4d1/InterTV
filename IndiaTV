@@ -25,7 +25,7 @@ https://news18up-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-p.m3u8?sd=10&r
 https://z5ams.akamaized.net/zeenews/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Zee Business
 https://z5ams.akamaized.net/zeebusiness/tracks-v3a1/mono.m3u8
-T#EXTINF:-1,ez TV
+#EXTINF:-1,ez TV
 https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
 #EXTINF:-1,Samachar Plus : Uttar Pradesh
 http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream_aac/playlist.m3u8
@@ -38,34 +38,6 @@ https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
 #EXTM3U
 #EXTINF:-1,NDTV 24x7
 https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
-#EXTINF:-1,IndiaToday
-https://livestream-f.akamaihd.net/i/11965022_4086327_lsihwxbi8rhu8mahyrs_1@189832/master.m3u8
-#EXTINF:-1,CNN News18
-http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/master.m3u8
-#EXTINF:-1,Times Now
-https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/timesnow.smil/playlist.m3u8
-#EXTINF:-1,ET Now
-https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/playlist.m3u8
-#EXTINF:-1,BTVi
-rtmp://bloomtv.live-s.cdn.bitgravity.com/cdn-live
-#EXTINF:-1,DD News
-http://nicls1-lh.akamaihd.net/z/ddnews_1@409133/manifest.f4m
-#EXTINF:-1,NewX
-https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
-#EXTINF:-1,India News
-https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsNational.smil/playlist.m3u8
-#EXTINF:-1,India News Haryana
-https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsharyana.smil/playlist.m3u8
-#EXTINF:-1,India News Madhya Pradesh and Chhatisgarh
-https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsmpcg.smil/playlist.m3u8
-#EXTINF:-1,India News Rajasthan
-https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsRajasthan.smil/playlist.m3u8
-#EXTINF:-1,India News Uttar Pradesh 
-https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/IndiaNewsUP.smil/playlist.m3u8
-#EXTINF:-1,India News Punjab
-https://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewspunjab.smil/playlist.m3u8
-#EXTINF:-1,In Goa 24x7
-http://manage.qikstudio.in:1935/ingoa/ingoa/playlist.m3u8
 #EXTINF:-1,INDtvUSA
 rtmp://cp45648.live.edgefcs.net/live/T02117@71805
 #EXTINF:-1,ZOOM
