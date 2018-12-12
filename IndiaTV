@@ -34,30 +34,17 @@ http://edge-ind.inapcdn.in:1935/wrap/1indnewsrj.stream_aac/playlist.m3u8
 #EXTINF:-1,News Nation
 https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
 
-
-#EXTM3U
 #EXTINF:-1,NDTV 24x7
 https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
 #EXTINF:-1,INDtvUSA
 rtmp://cp45648.live.edgefcs.net/live/T02117@71805
-#EXTINF:-1,ZOOM
-https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/zoom_hls.smil/playlist.m3u8
 #EXTINF:-1,NDTV Prime
 https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
 #EXTINF:-1,NDTV India
 https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
 #EXTINF:-1,Vyas Channel
 http://nicls1-lh.akamaihd.net/i/vyas_1@307502/master.m3u8
-#EXTINF:-1,Care World TV
-http://45.79.203.234:1935/careworld/myStream/playlist.m3u8
-#EXTINF:-1,News 18 Hindi
-https://india-news18.akamaized.net/i/ibn7_hls_n_1@174951/master.m3u8
-#EXTINF:-1,Etv Kannada
-https://etv-bihar-jh.akamaized.net/i/etv_bihar_hls_1@175736/master.m3u8
-#EXTINF:-1,Etv Urdu
-https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/master.m3u8
-#EXTINF:-1,CNBC 18
-https://cnbc_tv18_hls-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/master.m3u8
+
 
 
 
