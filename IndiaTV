@@ -1,5 +1,41 @@
 
 #EXTM3U
+
+#EXTINF:-1,ndtv
+https://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_352_av-p.m3u8?sd=6&b=256,384&set-segment-duration=quality&rebase=on
+#EXTINF:-1,ndtv_24x7
+https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/index_352_av-p.m3u8?sd=6&b=256,384&set-segment-duration=quality&rebase=on
+#EXTINF:-1,ndtv_profit
+https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/index_224_av-p.m3u8?sd=10&b=256,384&rebase=on
+#EXTINF:-1,Dilli Aaj Tak
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/playlist.m3u8
+#EXTINF:-1,Gulistan News
+http://edge-ind.inapcdn.in:1935/vivo/sea_7s.stream_aac/playlist.m3u8
+#EXTINF:-1,INDIATV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:-1,NEWS18 INDIA
+https://news18india-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,NEWS18 PUNJAB, HARYANA, HIMACHAL
+https://news18haryana-lh.akamaihd.net/i/etv_haryana_live_1@349009/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,NEWS18 RAJASTHAN
+https://news18rajasthan-lh.akamaihd.net/i/etv_rajasthan_hls_1@175738/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,NEWS18 UTTAR PRADESH, UTTARAKHAND
+https://news18up-lh.akamaihd.net/i/etv_up_hls_1@175735/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ZEE NEWS
+https://z5ams.akamaized.net/zeenews/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Zee Business
+https://z5ams.akamaized.net/zeebusiness/tracks-v3a1/mono.m3u8
+T#EXTINF:-1,ez TV
+https://vidcdn.vidgyor.com/tez-origin/liveabr/playlist.m3u8
+#EXTINF:-1,Samachar Plus : Uttar Pradesh
+http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream_aac/playlist.m3u8
+#EXTINF:-1,Samachar Plus : Rajasthan
+http://edge-ind.inapcdn.in:1935/wrap/1indnewsrj.stream_aac/playlist.m3u8
+#EXTINF:-1,News Nation
+https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8
+
+
+#EXTM3U
 #EXTINF:-1,NDTV 24x7
 https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
 #EXTINF:-1,IndiaToday
