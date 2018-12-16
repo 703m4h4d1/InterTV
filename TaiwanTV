@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:0, group-title="TV TAIWAN", ers news
 http://60.250.23.14:18080/eranews/index.m3u8
 #EXTINF:0, group-title="TV TAIWAN", cti news
