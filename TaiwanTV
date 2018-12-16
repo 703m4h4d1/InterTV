@@ -1,0 +1,26 @@
+#EXTINF:0, group-title="TV TAIWAN", ers news
+http://60.250.23.14:18080/eranews/index.m3u8
+#EXTINF:0, group-title="TV TAIWAN", cti news
+http://60.250.23.14:18080/CtiNews/index.m3u8
+#EXTINF:0, group-title="TV TAIWAN", setcity 1
+http://125.227.35.176:18080/set/index.m3u8
+#EXTINF:0, group-title="TV TAIWAN", setcity
+http://60.250.23.14:18080/setcity/index.m3u8
+#EXTINF:0, group-title="TV TAIWAN", ELEVEN sports 1
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:0, group-title="TV TAIWAN", ELEVEN sports 2
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:0, group-title="TV TAIWAN", taiwan 1
+http://61.58.60.230:9000/live/123.m3u8
+#EXTINF:0, group-title="TV TAIWAN", taiwan2
+http://61.58.60.230:9000/live/124.m3u8
+#EXTINF:0, group-title="TV TAIWAN", taiwan3
+http://61.58.60.230:9000/live/125.m3u8
+#EXTINF:0, group-title="TV TAIWAN", taiwan4
+http://61.58.60.230:9000/live/10.m3u8
+#EXTINF:0, group-title="TV TAIWAN", taiwan,5
+http://61.58.60.230:9000/live/191.m3u8
+#EXTINF:0, group-title="TV TAIWAN", taiwan,6
+http://125.227.35.176:18080/ftv/index.m3u8
+#EXTINF:0, group-title="TV TAIWAN", taiwan7
+http://125.227.35.176:18080/CTS/index.m3u8
