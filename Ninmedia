@@ -29,6 +29,6 @@ http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
 #EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", RUMAH TV
 http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
 #EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", AREK TV
-ttp://stream1.ninmedia.tv/live/xmedia-arektv.stream/playlist.m3u8
+http://stream1.ninmedia.tv/live/xmedia-arektv.stream/playlist.m3u8
 #EXTINF:0, tvg-logo="http://elhank.6te.net/LOGO/ninmedia.jpg" group-title="NINMEDIA", NU CHANNEL
 http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
