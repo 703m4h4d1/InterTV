@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,	Al arabiya	
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1, Alqaseem TV
+rtmp://82.212.74.2:1935/live/9206
 #EXTINF:-1, Beity TV
 rtmp://82.212.74.99:1935/live/8064
 #EXTINF:-1,	Al Danah TV	
@@ -29,12 +31,16 @@ rtmp://82.212.74.4:1935/live/7610
 rtmp://82.212.74.4:1935/live/7611
 #EXTINF:-1, Doros12
 rtmp://82.212.74.4:1935/live/7612
+#EXTINF:-1, DMM TV
+rtmp://82.212.74.2:1935/live/7214
 #EXTINF:-1,	Al Ekhbariya	
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live.m3u8
 #EXTINF:-1,	Al Eqtisadiya	
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel5/index.m3u8
 #EXTINF:-1,	Al Jameela	
 http://de.live.net.sa:1935/live/alj/playlist.m3u8
+#EXTINF:-1,	Kaif TV
+rtmp://82.212.74.2:1935/live/7211
 #EXTINF:-1,	Al Qassim TV	
 http://82.212.74.2:8000/live/7341.m3u8
 #EXTINF:-1,	Al Quran	
@@ -57,6 +63,8 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 http://31.14.40.238:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1,	Nilat TV	
 http://82.212.74.3:8000/live/7505.m3u8
+#EXTINF:-1,	Nailat TV
+rtmp://82.212.74.3:1935/live/7405
 #EXTINF:-1,	Resalat Al Islam Network	
 http://82.212.74.3:8000/live/7502.m3u8
 #EXTINF:-1,	Rotana Khalejia
