@@ -1,206 +1,103 @@
 #EXTM3U
-
-#EXTINF:-1,	ADI TV YOGYA	
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1,	Ahsan TV	
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1,	AHSAN TV	
-http://iptv.didanurwanda.com/channel/live/ahsantv.m3u8
-#EXTINF:-1,	Annabatv	
-http://stream.asianastream.com:1935/live/ngrp:annaba_all/playlist.m3u8
-#EXTINF:-1,	ANTV	
-http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1,	ASWAJA TV	
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-#EXTINF:-1,	BALI TV	
-http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,	Balikpapan TV	
-http://122.248.32.234:1935/ch10/myStream/playlist.m3u8
-#EXTINF:-1,	Baraya TV Banten	
-http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
-#EXTINF:-1,	BERITA SATU HD	
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1,	BERITA SATU WORLD HD	
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1,	Beritasatu English	
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1,	Beritasatu News	
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1,	Beritasatu world	
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1,	BMSTV Banyumas	
-http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-#EXTINF:-1,	BTV BANTEN	
-http://iptv.didanurwanda.com/channel/live/btv-batam.m3u8
-#EXTINF:-1,	CeriaTV Pekanbaru	
-http://ceriatv.cf:1935/riau/smil:live.smil/playlist.m3u8
-#EXTINF:-1,	CNN INDONESIA HD	
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w596222982_b384000_sleng.m3u8
-#EXTINF:-1,	CTV Banten	
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,	DAAI TV	
-http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
-#EXTINF:-1,	Dangdutz	
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:-1,	Dhamma TV	
-http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
-#EXTINF:-1,	DUTA TV	
-http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
-#EXTINF:-1,	Duta TV Banjarmasin	
-http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
-#EXTINF:-1,	ELSHINTA TV	
-http://rr2.dens.tv/s/s10/index2.m3u8
-#EXTINF:-1,	Foodie Channel	
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1,	GTV	
-http://edge.okezone.com/live/globaltv.m3u8
-#EXTINF:-1,	Home & Living	
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1,	IN TV	
-http://rr2.dens.tv/s/s46/index2.m3u8
-#EXTINF:-1,	INDOSIAR	
-http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1,	INEWS TV	
-http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,	InsanTV	
-http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
-#EXTINF:-1,	JAK TV	
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,	Jambi TV	
-http://122.248.32.234:1935/ch23/myStream/live.m3u8
-#EXTINF:-1,	JambiTV	
-http://122.248.32.234:1935/ch23/myStream/playlist.m3u8
-#EXTINF:-1,	JITV Jogja	
-http://mam.jogjaprov.go.id:1935/tv/ngrp:tvonline.stream_all/playlist.m3u8
-#EXTINF:-1,	JTV	
-http://122.248.32.234:1935/ch2/myStream/chunklist.m3u8
-#EXTINF:-1,	JTV	
-http://122.248.32.234:1935/ch2/myStream/chunklist_w1144793874.m3u8
-#EXTINF:-1,	KOMPAS TV HD	
-https://stream-02.sg1.dailymotion.com/dm/3/x6pz4sa/live-3.m3u8
-#EXTINF:-1,	KompasTV	
-https://dmlive.vo.llnwd.net/dm/3/x6pz4sa/live-3.m3u8
-#EXTINF:-1,	MadaniTV Ciracas	
-http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
-#EXTINF:-1,	Madu TV Tulungagung	
-http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
-#EXTINF:-1,	METRO TV HD	
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1,	MetroTV	
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1,	MGS TV	
-http://wowza60.indostreamserver.com:1935/mgstv/live/playlist.m3u8
-#EXTINF:-1,	MNC TV	
-http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,	MUGOS TV	
-http://iptv.didanurwanda.com/channel/live/mugos.m3u8
-#EXTINF:-1,	NET. HD	
+ 
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+ 
+#EXTINF:-1,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,INDOSIAR
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+ 
+#EXTINF:-1,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,RCTI
+http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,SCTV
+http://202.80.222.145/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,TVRI
+http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+ 
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+ 
+#EXTINF:1,Trans 7
+http://202.80.222.145/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,GTV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,Trans TV
+http://202.80.222.145/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,TVONE
+http://202.80.222.130/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,NET TV
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1,	NUSANTARA TV	
-http://103.77.106.171:1935/live/liventv1/playlist.m3u8
-#EXTINF:-1,	PJTV	
-http://iptv.didanurwanda.com/channel/live/pjtv.m3u8
-#EXTINF:-1,	PJTV Bandung	
-http://122.248.32.234:1935/ch3/myStream/chunklist.m3u8
-#EXTINF:-1,	PrimaTV Banjarmasin	
-http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
-#EXTINF:-1,	RADAR CIREBON TV	
-http://iptv.didanurwanda.com/channel/live/rctv.m3u8
-#EXTINF:-1,	Radar TV Tasikmalaya	
-http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
-#EXTINF:-1,	RCTI	
-https://edge.okezone.com/live/epl.m3u8
-#EXTINF:-1,	RCTI	
-https://edge.okezone.com/live/rctioke.m3u8
-#EXTINF:-1,	RCTV Cirebon	
-http://122.248.32.234:1935/ch9/myStream/chunklist.m3u8
-#EXTINF:-1,	Rodja TV	
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-1,	RTV	
-http://rr2.dens.tv/s/s12/01.m3u8
-#EXTINF:-1,	RuaiTV	
-http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
-#EXTINF:-1,	SBCTV Jember	
-http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
-#EXTINF:-1,	SBO TV	h
-ttp://122.248.32.234:1935/ch13/myStream/playlist.m3u8
-#EXTINF:-1,	SBO TV SURABAYA	
-http://122.248.32.234:1935/ch13/myStream/live.m3u8
-#EXTINF:-1,	SCTV	
-http://rr2.dens.tv/s/s03/index2.m3u8
-#EXTINF:-1,	TA TV	
-http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1,	TABALONG TV	
-http://stream1.ninmedia.tv/live/xmedia-tabalongtv.stream_nin/playlist.m3u8
-#EXTINF:-1,	TEGAR TV	
-http://iptv.didanurwanda.com/channel/live/tegar-tv.m3u8
-#EXTINF:-1,	TegarTV Lampung	
-http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
-#EXTINF:-1,	THE INDONESIA CHANNEL	
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-#EXTINF:-1,	TRANS 7 HD	
-https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-4.m3u8
-#EXTINF:-1,	TRANSTV HD	
-https://stream-03.sg1.dailymotion.com/dm/3/x5b99vx/live-3.m3u8
-#EXTINF:-1,	TV Edukasi	
-http://118.98.221.131/live/tvedukasi.smil/Playlist.m3u8
-#EXTINF:-1,	TV NADA MUSLIM	
-http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-#EXTINF:-1,	TV ONE HD	
-https://stream-04.sg1.dailymotion.com/dm/3/x619221/live-3.m3u8
-#EXTINF:-1,	TV9 Nusantara	
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1,	TVKU	
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1,	TVRI 3	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Bengkulu	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Budaya	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:-1,	TVRI DKI	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
-#EXTINF:-1,	TVRI DKI Jakarta	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Jabar	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Jambi	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Jateng	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Kalbar	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Kalsel	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI KALSEL	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Kalteng	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Kaltim	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-#EXTINF:-1,	TVRI Lampung	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Makassar	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI NATIONAL HD	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(04)/index.m3u8
-#EXTINF:-1,	TVRI Papua	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Riau	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI SPORTS	
-http://rr2.dens.tv/s/s48/index2.m3u8
-#EXTINF:-1,	TVRI Sulteng	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Sulut	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Sumbar	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
-#EXTINF:-1,	TVRI Sumsel	
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
-#EXTINF:-1,	VOA indonesia	
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,	WesalTV	
-http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
-#EXTINF:-1,	YM TV	
-http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+ 
+#EXTINF:-1,Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,iNews
+http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
+ 
+#EXTINF:-1,ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+ 
+#EXTINF:-1,JAK TV
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1,RAJAWALI TV
+http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+ 
+#EXTINF:-1,RODJA TV
+http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
+ 
+#EXTINF:-1,ZEE BIOSKOP
+http://45.126.83.51/qwr9ew/s/s32/index2.m3u8
+
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+ 
+#EXTINF:-1,MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+ 
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+ 
+#EXTINF:-1,ONE
+http://rtmp.one.by:1300
+ 
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+ 
+#EXTINF:-1,KRAL POP
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+ 
+#EXTINF:-1,KRAL WORLD
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b814000.m3u8
+ 
+#EXTINF:-1,RETRO TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1,VIBEE TV
+http://139.59.166.48:8081/live/live3/playlist.m3u8
+ 
+#EXTINF:-1,MIX MUSIC
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+ 
+#EXTINF:-1,DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+ 
+#EXTINF:-1,KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+#EXTINF:-1,HELLO TV
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
